@@ -1,6 +1,6 @@
 # Rationale
 
-The current marketplace of xDaiPunks has been specifically created to mint and trade xDaipunks. That brings a lot of limitations. The current marketplace is very fair to its users as there are now fees or royalties involved. That is no coincidental as we believe that an NFT marketplace should never be a middle man.
+The current marketplace of xDaiPunks has been specifically created to mint and trade xDaipunks. That brings a lot of limitations. The current marketplace is very fair to its users as there are no fees or royalties involved. That is not coincidental as we believe that an NFT marketplace should never be a middle man.
 
 To overcome these limitations, a generic marketplace is currently under development. As said the marketplace will have a different model than the royalty model as we think the royalty model is an unsustainable model and does not do justice to the ERC-721 standard. Royalties should go to the creators of NFTs and not to the marketplace.
 
