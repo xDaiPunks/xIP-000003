@@ -26,16 +26,16 @@ Name, logo and domain have been finalized for the draft.
 We have currently settled on the name "NiftyFair". The reasoning behind the name is that it will be a marketplace for NFTs and the model of the marketplace will be fair. When those two words are combined, you get NiftyFair. 
 
 ## Domain
-The domain names niftyfair.io, niftyfair.org, niftyfair.net and niftyfair.trade have been registered. The will become active when a the preview of the new marketplace is ready.
+The domain names niftyfair.io, niftyfair.org, niftyfair.net and niftyfair.trade have been registered. The will become active when the preview of the new marketplace is ready.
 
 ## Logo
 Although the marketplace will be community driven and powered by our xDaiPunks and the governance token, the marketplace will have its own look and feel. The design will have a light connection to the xDaiPunk community. 
 
-The ideation for the logo is a simple one. The definition of fair is: A fair (archaic: faire or fayre) is a gathering of people for a variety of entertainment or commercial activities. It is normally of the essence of a fair that it is temporary with scheduled times lasting from an afternoon to several weeks.
+The ideation for the logo is a simple one. The definition of a fair is: A fair (archaic: faire or fayre) is a gathering of people for a variety of entertainment or commercial activities. It is normally of the essence of a fair that it is temporary with scheduled times lasting from an afternoon to several weeks.
 
 In the Middle Ages, many fairs developed as temporary markets and were especially important for long-distance and international trade, as wholesale traders travelled, sometimes for many days, to fairs where they could be sure to meet those they needed to buy from or sell to. Fairs were usually tied to special Christian religious occasions, such as the Saint's day of the local church. Stagshaw in England, is documented to have held annual fairs as early as 1293 consisting of the sales of animals. Along with the main fair held on 4 July, the city also hosted smaller fairs throughout the year where specific types of animals were sold, such as one for horses, one for lambs, and one for ewes.
 
-A Fair can also be more of a festival. E.g. something to celebrate and something very positive like our community.
+A Fair can also be more of a festival. E.g. something to celebrate and that is the link to our Uber positive and active community.
 
 Next to that we wanted to make the logo "human like". And when we think of festivals in the old days we think of the guy with the mustache and the top hat that makes the announcements. Because the words "Ser" and "Sir" are heavily used within our community, we settled on a simplified "sir" like logo. To make the link with xDaiPunks, our "Nifty Sir" is a bit edgy and a bit punk. So the top hat has a skull. 
 
